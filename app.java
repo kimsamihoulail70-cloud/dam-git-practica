@@ -1,5 +1,5 @@
 public class App {
  public static void main(String[] args) {
-  System.out.println("Adeu alumnes de DAM!");
+System.out.println("Hola i adéu alumnes de DAM!");
  }
 }
